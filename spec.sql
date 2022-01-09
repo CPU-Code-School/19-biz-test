@@ -1,6 +1,10 @@
 --create a database and table to store information about the universe
-drop database if exists UniverseDB
-GO
-create database UniverseDB
-GO
-use UniverseDB
+
+use master
+go 
+drop database if exists Universe
+go
+create database Universe
+go
+use Universe
+go
