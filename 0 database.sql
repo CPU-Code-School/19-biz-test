@@ -1,8 +1,8 @@
 use master
 go
-drop database if exists Session19test
+drop database if exists Universe
 go
-create database Session19test
+create database Universe
 go
-use Session19test
+use Universe
 go 
