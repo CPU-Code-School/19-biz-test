@@ -1,7 +1,7 @@
 --create a database and table to store information about the universe
 use master 
 go 
-drop database if exists WorldDB
+drop database if exists UniverseDB
 go 
-create database WorldDB
+create database UniverseDB
 go
