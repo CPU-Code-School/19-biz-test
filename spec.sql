@@ -1,6 +1,6 @@
 --create a database and table to store information about the universe
 
-drop database if exists Universe
+drop database if exists universe
 go 
-create database Universe
+create database universe
 go 
