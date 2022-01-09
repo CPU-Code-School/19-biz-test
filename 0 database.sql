@@ -1,8 +1,8 @@
 use master
 go
-drop database if exists Universe
+drop database if exists universeDB
 go
-create database Universe
+create database universeDB
 go
-use Universe
+use universeDB
 go 
